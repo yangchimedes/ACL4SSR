@@ -1,6 +1,10 @@
 # 内容：Whatsapp
 # 数量：16条
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,whatsap.com
+DOMAIN-SUFFIX,whatsap.net
+DOMAIN-SUFFIX,whatsap-sharing.com
+DOMAIN-SUFFIX,download-whatsap.com
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -16,3 +20,7 @@ IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,174.37.243.0/16,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
+IP-CIDR,162.125.17.131/27,no-resolve
+IP-CIDR,202.160.130.118/27,no-resolve\
+IP-CIDR,157.240.3.8/27,no-resolve
+IP-CIDR,31.13.94.7/27,no-resolve
