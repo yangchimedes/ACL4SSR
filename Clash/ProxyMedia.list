@@ -428,3 +428,33 @@ DOMAIN-SUFFIX,ytimg.com
 PROCESS-NAME,com.google.android.apps.youtube.music
 PROCESS-NAME,com.google.android.youtube.tvmusicroot
 PROCESS-NAME,com.vanced.android.apps.youtube.music
+
+# Jinkela
+USER-AGENT,*Jinkela*
+USER-AGENT,Jinkela*
+USER-AGENT,Jinkela001*
+DOMAIN-KEYWORD,jinkela
+DOMAIN,jinkela.best 
+DOMAIN,jinkela.red 
+DOMAIN,v2.jinkela.link
+DOMAIN,v2.jinkela.life
+DOMAIN,jinkela.wtf
+DOMAIN,jinkela001.xyz 
+DOMAIN-SUFFIX,jinkela.best 
+DOMAIN-SUFFIX,jinkela.red 
+DOMAIN-SUFFIX,v2.jinkela.link
+DOMAIN-SUFFIX,v2.jinkela.life
+DOMAIN-SUFFIX,jinkela.wtf
+DOMAIN-SUFFIX,jinkela001.xyz 
+
+# kcssr
+USER-AGENT,*kcssr*
+USER-AGENT,kcssr*
+DOMAIN-KEYWORD,kcssr
+DOMAIN,kcssr.app 
+DOMAIN,kcssr.icu
+DOMAIN,jinkela001.xyz 
+DOMAIN-SUFFIX,kcssr.app 
+DOMAIN-SUFFIX,kcssr.icu
+
+
